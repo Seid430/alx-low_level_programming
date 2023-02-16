@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * main - aslk
- * Return: zero
- */
+* main - aslk
+* Return: zero
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle\n");
