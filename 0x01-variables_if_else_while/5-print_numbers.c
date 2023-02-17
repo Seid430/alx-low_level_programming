@@ -6,12 +6,10 @@
  */
 int main(void)
 {
-	int a = 0;
+	int num;
 
-while (a < 10)
-	{
-	printf("value of a: %d\n", a);
-		a++;
-	}
+	for (num = 0; num < 10; num++)
+	printf("%d", num);
+	printf("\n");
 	return (0);
 }
