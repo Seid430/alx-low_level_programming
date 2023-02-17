@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
- * main - smth
- * Return: zero
+
+/**
+ *main - Prints 0-9
+ *Return: Always 0.
  */
 int main(void)
 {
