@@ -1,13 +1,16 @@
 #include<stdio.h>
 /*
- * main - numbers
+ * main - smth
  * Return: zero
  */
 int main(void)
 {
-int a = 0;
+	int a = 0;
+
 while (a < 10)
-	printf("%d", a);
+	{
+	printf("value of a: %d\n", a);
 		a++;
-		return (0);
+	}
+	return (0);
 }
