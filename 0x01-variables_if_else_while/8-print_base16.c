@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
- * main - base 16 numbers
- * Result: zero
+
+/**
+ *main - Prints 0-9
+ *Return: Always 0.
  */
 int main(void)
 {
