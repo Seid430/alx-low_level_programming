@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * print_alphabet - print small alphabet
  * Return: return value can be anything
  */

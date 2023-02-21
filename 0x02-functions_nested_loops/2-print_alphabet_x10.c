@@ -1,5 +1,5 @@
 #include"main.h"
-/*
+/**
  *print_alphabet_x10 - 10 times alphabet in small case
  *Return: nothing men
  */
