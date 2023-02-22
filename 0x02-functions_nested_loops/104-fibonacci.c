@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 /**
  *main - prints out first 98 fibonacci suit numbers
  *Return: return 0
