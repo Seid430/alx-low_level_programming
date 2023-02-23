@@ -5,17 +5,16 @@
  *
  *
  */
-void print_numbers(void);
+void print_numbers(void)
 {
-	int a = 0;
+	int a = 48;
 
-	while (a <= 9)
+	while (a <= 57)
 	{
-		_putchar("%d", a);
+		_putchar(a);
 		a++;
 	}
-	_putchar("\n");
-	return (0);
+	_putchar('\n');
 
 
 }
