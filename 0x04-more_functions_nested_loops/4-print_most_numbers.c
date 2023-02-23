@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- *
- *
+ *print_most_numbers - print numbers with exception
  */
 void print_most_numbers(void)
 {
